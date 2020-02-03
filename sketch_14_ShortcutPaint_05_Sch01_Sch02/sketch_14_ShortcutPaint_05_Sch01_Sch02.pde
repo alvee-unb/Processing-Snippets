@@ -155,7 +155,7 @@ void setup() {
 }
 
 void draw() {
-    fill(255);
+    noFill();
     background(255);
     
     /*show selection of features
